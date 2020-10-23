@@ -1,4 +1,4 @@
-cd username.github.io
+cd NelloF.github.io
 
 echo "Hello World" > index.html
 
